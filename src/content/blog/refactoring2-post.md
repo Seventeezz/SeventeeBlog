@@ -4,7 +4,7 @@ description: '读《重构：改善既有代码的设计》第二版领悟到的
 pubDate: 'Aug 05 2024'
 heroImage: '../../assets/refactoring/refact2-v1.jpg.png'
 category: '架构设计'
-tags: ['重构', '单元测试', '设计模式', 'Javascript', 'C++', 'Python']
+tags: ['重构', '单元测试', '设计模式', 'JavaScript', 'C++', 'Python']
 ---
 
 ## 前言
