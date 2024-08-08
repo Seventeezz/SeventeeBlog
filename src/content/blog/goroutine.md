@@ -1,10 +1,10 @@
 ---
-title: 'Go并发编程入门学习笔记'
-description: Notes for Google Rob Pike's talks of 《Go Concurrency Patterns》 & 《Concurrency is not Parallelism》
-pubDate: 'Aug 05 2024'
+title: '探索并发编程模型：Go、C#协程与JavaScript事件循环解析'
+description: 探讨并发编程的核心概念，重点解析了Go语言的并发模型，并对比了C#的协程和JavaScript的事件循环及异步编程。
+pubDate: 'Aug 08 2024'
 heroImage: '../../assets/goroutine/gopher.png'
 category: '语言特性'
-tags: ['Go', '并发编程', 'JavaScript', 'C#']
+tags: ['并发编程', 'Go', 'JavaScript', 'CSharp', 'Unity']
 ---
 
 > Do not communicate by sharing memory. Instead, share memory by communicating.
